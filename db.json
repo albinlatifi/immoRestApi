@@ -1,0 +1,52 @@
+{
+  "immos": [
+    {
+      "id": "1",
+      "address": "Musterstraße 1, 12345 Musterstadt",
+      "size": 75,
+      "price": 250000,
+      "rent": 900,
+      "description": "Gemütliche 2-Zimmer-Wohnung im Stadtzentrum mit Balkon."
+    },
+    {
+      "id": "2",
+      "address": "Beispielweg 10, 54321 Beispielstadt",
+      "size": 120,
+      "price": 400000,
+      "rent": 1500,
+      "description": "Helle 4-Zimmer-Wohnung mit Blick auf den Park und modernen Annehmlichkeiten."
+    },
+    {
+      "id": "3",
+      "address": "Hauptstraße 5, 98765 Hauptstadt",
+      "size": 50,
+      "price": 180000,
+      "rent": 600,
+      "description": "Kleine, aber feine 1-Zimmer-Wohnung ideal für Singles oder Studenten."
+    },
+    {
+      "id": "4",
+      "address": "Lindenallee 15, 67890 Lindenstadt",
+      "size": 85,
+      "price": 320000,
+      "rent": 1100,
+      "description": "Moderne 3-Zimmer-Wohnung in ruhiger Lage mit Gartenanteil."
+    },
+    {
+      "id": "5",
+      "address": "Feldstraße 2, 11223 Feldstadt",
+      "size": 95,
+      "price": 270000,
+      "rent": 1250,
+      "description": "Schöne 2-Zimmer-Wohnung mit guter Anbindung an öffentliche Verkehrsmittel."
+    },
+    {
+      "id": "6",
+      "address": "Seeweg 8, 44556 Seestadt",
+      "size": 150,
+      "price": 750000,
+      "rent": 2000,
+      "description": "Luxuriöse 5-Zimmer-Villa direkt am See mit großem Garten."
+    }
+  ]
+}
